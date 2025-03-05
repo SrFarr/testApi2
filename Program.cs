@@ -13,12 +13,13 @@ builder.Services.AddSwaggerGen(); // Untuk Swagger UI (opsional)
 
 var app = builder.Build();
 
-// Middleware pipeline
-if (app.Environment.IsDevelopment())
+// **Pastikan Swagger bisa diakses di Production**
+if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
