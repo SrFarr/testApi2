@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|c:\\users\\thinkpad\\source\\repos\\userapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|c:\\users\\thinkpad\\source\\repos\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|c:\\users\\thinkpad\\source\\repos\\userapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|c:\\users\\thinkpad\\source\\repos\\userapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDAE2216-2B63-431C-A47C-55DBA4F1730E}|UserAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,47 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserAPI.http",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\UserAPI.http",
-              "RelativeDocumentMoniker": "UserAPI.http",
-              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\UserAPI.http",
-              "RelativeToolTip": "UserAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-05T13:18:28.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T13:18:21.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-05T12:39:15.27Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -113,15 +74,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "UserAPI.http",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\UserAPI.http",
+              "RelativeDocumentMoniker": "UserAPI.http",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\UserAPI.http",
+              "RelativeToolTip": "UserAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-05T13:18:28.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T13:18:21.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-05T12:39:15.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:23:34.067Z"
+              "WhenOpened": "2025-03-05T10:23:34.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -137,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Db.cs",
               "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Data\\Db.cs",
               "RelativeDocumentMoniker": "Data\\Db.cs",
@@ -149,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -174,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -186,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\UserAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
